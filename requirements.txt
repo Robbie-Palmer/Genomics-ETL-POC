@@ -1,0 +1,3 @@
+pandas==1.3.*
+isqlite==1.*
+sqliteparser==0.*
